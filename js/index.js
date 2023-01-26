@@ -13,4 +13,4 @@ do {
   }
 } while (edad < 18 || isNaN(edad));
 
-alert("hi,  " + nombre + "! welcome to lofi");
+alert("hi,  " + nombre + "! welcome to lofi!");
